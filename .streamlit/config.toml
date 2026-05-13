@@ -1,0 +1,17 @@
+# 방주의 기록 - Streamlit 테마
+# 임원 보고서 스타일: Navy primary + Soft slate 배경
+
+[theme]
+base = "light"
+primaryColor = "#1F2A44"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F8FAFC"
+textColor = "#111827"
+font = "sans serif"
+
+[server]
+# 개발 편의: 파일 변경 시 자동 새로고침
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
